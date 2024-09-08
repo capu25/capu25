@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antonio Pio Caputo</h1>
-<h3 align="center">A guy passionate about IT and everything that concerns it!</h3>
+<h3 align="center">A guy with a passion for IT and everything that concerns it!</h3>
 
 - 🔭 I’m currently working on a python project called **"Budgeting-App"**
 
-- 📄 Know about my experiences [https://devcap.streamlit.app](https://devcap.streamlit.app)
+- 📄 Explore my experiences [https://devcap.streamlit.app](https://devcap.streamlit.app)
 
-- 📫 How to reach me -> **antonio.pio25a@gmail.com**
+- 📫 How to contact me -> **antonio.pio25a@gmail.com**
 
 - ⚡ Fun fact **I like challenging projects!**
 
