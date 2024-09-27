@@ -2,8 +2,11 @@
 <h3 align="center">A guy with a passion for IT and everything that concerns it!</h3>
 
 - 🔭 I’m currently working at two projects:
-  -the first one is called **"Budgeting-App"** [python and streamlit]
-  -the secon one is called **"uGYM"** [ReactNative]
+
+-the first one is called **"Budgeting-App"** [python and streamlit] 📊
+-the secon one is called **"uGYM"** [ReactNative] 📱
+
+<hr>
 
 - 📄 Explore my experiences [https://devcap.streamlit.app](https://devcap.streamlit.app)
 
