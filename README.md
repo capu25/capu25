@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at two projects:
 
--the first one is called **"Budgeting-App"** [python and streamlit] 📊
+- the first one is called **"Budgeting-App"** [python and streamlit] 📊
 
--the secon one is called **"uGYM"** [ReactNative] 📱
+- the secon one is called **"uGYM"** [ReactNative] 📱
 
 <hr>
 
