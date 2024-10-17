@@ -5,7 +5,7 @@
 
 - the first one is called **"Budgeting-App"** [python and streamlit] 📊
 
-- the secon one is called **"uGYM"** [ReactNative] 📱
+- the secon one is called **"uGYM"** [ReactNative] 📱 AND IT'S OUT!!
 
 <hr>
 
