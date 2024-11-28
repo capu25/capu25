@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Antonio Pio Caputo</h1>
 <h3 align="center">A guy with a passion for IT and everything that concerns it!</h3>
 
-- 🔭 I’m currently working at two projects:
+- 🔭 I’m currently working on three projects:
 
-- the first one is called **"Budgeting-App"** [python and streamlit] 📊
+- The first one is called "Budgeting-App" [Python and Streamlit] 📊
 
-- the secon one is called **"uGYM"** [ReactNative] 📱 AND IT'S OUT!!
+- The second one is called "uGYM" [React Native] 📱 AND IT'S OUT!!
+
+- The third one is called "uGest" [React Native] 📱 AND IT'S OUT TOO!!
 
 <hr>
 
