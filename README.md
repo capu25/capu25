@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antonio Pio</h1>
 <h3 align="center">A guy with a passion for IT and everything that concerns it!</h3>
 
-- 🌱 The first one is called ["Budgeting-App"]([Python and Streamlit] 📊)
+- 🌱 The first one is called **"Budgeting-App"** (Python and Streamlit 📊)
 
-- The second one is called ["uGYM"]([React Native] 📱 AND IT'S OUT!!)
+- The second one is called **"uGYM"** (React Native) 📱 **AND IT'S OUT!!**
 
-- The third one is called **"uGest" [React Native] 📱 AND IT'S OUT TOO!!**
+- The third one is called **"uGest"** (React Native) 📱 **AND IT'S OUT TOO!!**
 
 - 📫 How to reach me **antonio.pio25a@gmail.com**
 
